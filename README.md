@@ -42,7 +42,7 @@ If everything installed correctly, the following steps should provide
 a very simplistic simulation of a robot in a provided world map.
 
 1. In one terminal, run roscore.
-2. In another, run `rosrun stage_ros stageros <catkin_ws>/src/socs_p2os/socspioneer/data/meeting.world`.
+2. In another, run `rosrun stage_ros stageros <catkin_ws>/src/socspioneer/data/meeting.world`.
 This should start a simple simulated world with a robot and a map.
 3. In a third terminal, run `roslaunch socspioneer keyboard_teleop.joy`.
 
