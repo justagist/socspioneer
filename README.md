@@ -31,6 +31,11 @@ using Python 2 when writing Python nodes unless absolutely necessary.*
 - Clone this repo to the `src` directory of your catkin workspace.
 - Build the catkin workspace (`catkin_make` or `catkin build`).
 
+**NOTE: The catkin workspace should be sourced each time a new
+terminal session is loaded (run `source devel/setup.bash`). Alternatively,
+add the line `source <catkin_ws>/devel/setup.bash` to your `.bashrc`
+file to avoid repeating it every time.**
+
 ## Testing Simulation and Installation
 
 If everything installed correctly, the following steps should provide
