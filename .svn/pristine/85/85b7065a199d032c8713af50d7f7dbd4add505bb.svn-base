@@ -1,0 +1,14 @@
+<package>
+  <description brief="socspioneer">
+
+     socspioneer
+
+  </description>
+  <author>Local User</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/socspioneer</url>
+
+</package>
+
+
