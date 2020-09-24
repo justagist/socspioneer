@@ -44,7 +44,7 @@ a very simplistic simulation of a robot in a provided world map.
 1. In one terminal, run roscore.
 2. In another, run `rosrun stage_ros stageros <catkin_ws>/src/socspioneer/data/meeting.world`.
 This should start a simple simulated world with a robot and a map.
-3. In a third terminal, run `roslaunch socspioneer keyboard_teleop.joy`.
+3. In a third terminal, run `roslaunch socspioneer keyboard_teleop.launch`.
 
 This would allow you to move the robot using keyboard commands. Note that
 when controlling using the keyboard control, the terminal where the
