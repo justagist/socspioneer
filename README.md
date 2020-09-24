@@ -22,7 +22,7 @@ using Python 2 when writing Python nodes unless absolutely necessary.*
 
 ### Install dependencies
 
-- `sudo apt install ros-$ROS_DISTRO-pr2-teleop ros-$ROS_DISTRO-joy`
+- `sudo apt install ros-$ROS_DISTRO-pr2-teleop ros-$ROS_DISTRO-joy`ros-$ROS_DISTRO-slam-gmapping ros-$ROS_DISTRO-map-server
 - *Not needed when using simulation; Only required for real Pioneer
 3DX robot.* `sudo apt install ros-$ROS_DISTRO-p2os-driver ros-$ROS_DISTRO-p2os-launch ros-$ROS_DISTRO-p2os-urdf ros-$ROS_DISTRO-p2os-teleop`.
 
