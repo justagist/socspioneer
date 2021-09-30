@@ -12,13 +12,12 @@ organisation is also important (eg. [Building a catkin workspace](http://wiki.ro
 
 ### Ideal Working Environment
 
-- Ubuntu 18.04
-- [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+- Ubuntu 20.04
+- [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 (desktop-full)
 
-**NOTE**: *Installing ROS Melodic by default installs Python 2 packages
-instead of Python 3. For compatibility and lack of conflicts, stick to
-using Python 2 when writing Python nodes unless absolutely necessary.*
+**NOTE**: *Installing ROS Noetic by default installs Python 3 packages. For compatibility and lack of conflicts, stick to
+using Python 3 when writing Python nodes.*
 
 ### Install dependencies
 
